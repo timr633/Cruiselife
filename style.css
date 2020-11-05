@@ -76,6 +76,15 @@ p {
   height: 40%;
 }
 
+#tcamp {
+  padding: 2em;
+}
+
+#camp img {
+  width: 40%;
+  height: 40%;
+}
+
 #vehicle {
   padding: 2em;
   background: black;
