@@ -67,21 +67,31 @@ p {
   color: white;
 }
 
-#service {
+#travel {
   padding: 2em;
 }
 
-#service img {
+#travel img {
   width: 40%;
   height: 40%;
 }
 
-#portfolio {
+#vehicle {
   padding: 2em;
   background: black;
 }
 
-#portfolio img {
+#vehicle img {
+  width: 70%;
+  height: 70%;
+}
+
+#solar {
+  padding: 2em;
+  background: black;
+}
+
+#solar img {
   width: 70%;
   height: 70%;
 }
